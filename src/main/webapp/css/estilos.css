@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+header{
+  background-color: darkslategray;
+  color: black;
+  padding: 40px 16px;
+  text-align: center;
+  margin-top: 32px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;  
+  margin: 0 auto;
+  margin-bottom: calc(100vh - 440px);
+
+}
+
+
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Lucida Sans", sans-serif;
+  color: darkslategrey;
+  box-sizing: border-box;
+}
+
+footer {
+  background-color: darkslategray;
+  color: blanchedalmond;
+  padding: 40px 16px;
+  text-align: center;
+  margin-top: 32px;
+}
